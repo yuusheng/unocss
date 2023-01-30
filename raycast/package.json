@@ -4,6 +4,7 @@
   "title": "unocss",
   "description": "raycast extension for unocss",
   "icon": "unocss.svg",
+  "author": "yuusheng <hi@yuusheng.im>",
   "license": "MIT",
   "commands": [
     {

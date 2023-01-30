@@ -1,5 +1,4 @@
 {
-  "extends": "../tsconfig.json",
   "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Node 16",
   "include": ["src/**/*"],
